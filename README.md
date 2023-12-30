@@ -1,0 +1,1 @@
+[r2modmanplus](https://github.com/ebkr/r2modmanPlus) automatically creates the mods.yml file for tracking. So this file is not necessary when putting it in the main directory of the game.
